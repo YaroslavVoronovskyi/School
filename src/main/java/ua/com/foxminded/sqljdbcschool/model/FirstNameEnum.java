@@ -1,0 +1,6 @@
+package ua.com.foxminded.sqljdbcschool.model;
+
+public enum FirstNameEnum {
+    VIKTOR, BOGDAN, MYKOLA, VOLODYMYR, SERHIY, OLEXANDR, DENYS, VITALIY, NAZARIY, ARTEM, VLADYSLAV, MYKYTA,
+    RUSLAN, HEORHIY, ILLYA, DARYA, SVITLANA, MARINA, OLENA, OLGA;
+}
